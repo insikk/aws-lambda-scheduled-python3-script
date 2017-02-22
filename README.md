@@ -41,7 +41,7 @@ with correct information.
 Upload this on AWS Instance to run make command. It will build wrapped python code for AWS Lambda.
 Follow instruction from http://www.cloudtrek.com.au/blog/running-python-3-on-aws-lambda/
 
-이 코드를 어떻게 AWS Lambda에 올릴 수 있는지는 여기를 참조하세요. 
+이 코드를 어떻게 AWS Lambda에 올릴 수 있는지는 다음 링크 (https://lifewtech.com/2017/02/22/run-python3-app-without-server-using-aws-lambda/)를 참조하세요. 
 
 ## Sample Run on Your Machine, 내 컴퓨터에서 테스트 실행해보기
 
@@ -56,6 +56,14 @@ Don't forget to run `pip install -r requirements.txt` in virtualenv.
 `python3 myrobot.py 1`을 입력해서 잘 작동하나 테스트해보세요. 
 
 파이썬 가상환경(virtualenv)를 만든 후 필요한 패키지를 `pip install -r requirements.txt` 설치하는것을 잊지 마세요.
+
+## Related Tutorial
+
+https://lifewtech.com/2017/02/22/run-python3-app-without-server-using-aws-lambda/
+
+This tutorial is written in Korean. You can see translated page via Google Translate. (Yeah~ NMT google)
+
+https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Flifewtech.com%2F2017%2F02%2F22%2Frun-python3-app-without-server-using-aws-lambda%2F&edit-text=
 
 
 ## Acknowledge
