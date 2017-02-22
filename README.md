@@ -41,7 +41,7 @@ with correct information.
 Upload this on AWS Instance to run make command. It will build wrapped python code for AWS Lambda.
 Follow instruction from http://www.cloudtrek.com.au/blog/running-python-3-on-aws-lambda/
 
-이 코드를 어떻게 AWS Lambda에 올릴 수 있는지는 다음 링크 (https://lifewtech.com/2017/02/22/run-python3-app-without-server-using-aws-lambda/)를 참조하세요. 
+이 코드를 어떻게 AWS Lambda에 올릴 수 있는지는 다음 링크 (https://lifewtech.com/2017/02/22/run-python3-app-without-server-using-aws-lambda/ )를 참조하세요. 
 
 ## Sample Run on Your Machine, 내 컴퓨터에서 테스트 실행해보기
 
